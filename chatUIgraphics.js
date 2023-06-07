@@ -1749,7 +1749,7 @@ const at = e => {
         const e = ut();
         return he(e.firstChild, D(ct, {})), e
     })(),
-    pt = oe('<span><span>'),
+    pt = oe('<span>EtherealAI<span>'),
     dt = "#303235",
     gt = e => {
         let t, r;
