@@ -1749,7 +1749,7 @@ const at = e => {
         const e = ut();
         return he(e.firstChild, D(ct, {})), e
     })(),
-    pt = oe('<span>EtherealAI<span>'),
+    pt = oe('<span>Powered by<a href="https://flowiseai.com" target="_blank" rel="noopener noreferrer" class="lite-badge" id="lite-badge"><span> Flowise'),
     dt = "#303235",
     gt = e => {
         let t, r;
